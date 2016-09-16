@@ -1,0 +1,5 @@
+name: Wild Sorbet
+description: Wild Sorbet
+paginate: 10
+baseurl: '/Horizons-Jekyll-Theme'
+gems: [jekyll-paginate]
